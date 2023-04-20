@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to sarangeet technologies.Bengaluru,Karnataka. </h1>
+<h1 align="center">Welcome to sarangeet technologies,Hyderabad,Karnataka. </h1>
 <h1 align="center"> sarangeet technologies- Very Good Training center for DevOps with AWS in Maratha Halli,Nagavara Bangalore India ...</h1>
 <hr>
 <br>
