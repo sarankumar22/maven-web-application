@@ -1,7 +1,7 @@
 version: '3.1'
 services:
   mavenwebapp:
-    image: saranhub/maven-web-app:BUILD_NUMBER
+    image: saranhub/maven-web-app:VERSION
     restart: always
     ports:
     - 9090:8080
