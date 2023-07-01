@@ -1,7 +1,7 @@
 version: '3.1'
 services:
   springboot:
-    image: saranhub/maven-web-app:BuildNumber
+    image: saranhub/maven-web-app:${BuildNumber}
     restart: always
     ports:
     - 9090:8080
